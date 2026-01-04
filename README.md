@@ -1,3 +1,3 @@
 # janhavi-demo
- This is my first repository
-Author janhavi
+ This is my first repository.
+Author- janhavi
